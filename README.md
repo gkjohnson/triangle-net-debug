@@ -2,7 +2,7 @@
 
 Unity set up for debugging triangulation issues within Triangle.Net.
 
-Uses slightly modified verion of Triangle.net from [repo](https://github.com/akopetsch/triangle-unity).
+Uses slightly modified verion of Triangle.net from [this repo](https://github.com/akopetsch/triangle-unity).
 
 ## Use
 
